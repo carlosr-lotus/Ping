@@ -7,6 +7,9 @@
 - Esse website foi criado com o intuito de melhorar minhas habilidades em HTML/CSS/Javascript.
 
 # Design
+
+The images below are screenshots/As imagens abaixo são screenshots.
+
 ## Desktop
 ![](design/ping-desktop-design.png)
  
@@ -16,18 +19,18 @@
 
 ## Features
 
-- What users are able to do?
+- What users are able to do? / O que os usuários podem fazer?
 
- 	View the optimal layout for the site depending on their device's screen size.
+ 	View the optimal layout for the site depending on their device's screen size. /
 	Visualizar o layout otimizado com base no dispositivo do usuário.	
 
- 	See hover states for all interactive elements on the page
+ 	See hover states for all interactive elements on the page / 
 	Observar os efeitos hovers com os itens interativos da página.
 	
-	Submit their email address using an `input` field
+	Submit their email address using an `input` field /
 	Enviar seu endereço de email utilizando o campo 'input'
 
- 	Receive an error message when the `form` is submitted if:
+ 	Receive an error message when the `form` is submitted if: /
 	Receber uma mensagem de erro quando o 'form' for enviado se:
 
 	- The `input` field is empty. The message for this error should say *"Ops! It looks like you forgot to add your email"*
