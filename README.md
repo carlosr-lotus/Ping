@@ -7,9 +7,14 @@
 - Esse website foi criado com o intuito de melhorar minhas habilidades em HTML/CSS/Javascript.
 
 # Design
-
+## Desktop
+![](design/ping-desktop-design.png)
  
-# Features
+ 
+## Mobile
+![](design/ping-mobile-design.png)
+
+## Features
 
 - What users are able to do?
 
@@ -30,4 +35,11 @@
 
 	- The email address is not formatted correctly (i.e. a correct email address should have this structure: `name@host.tld`). The message for this error should say *"Please provide a valid email address"*
 	- O endereço de email não foi corretamente formatado (um exemplo correto seria: `name@host.tld`). Nesse caso, a seguinte mensagem aparecerá *"Please provide a valid email address"*
+
+### Active Elements
+![](design/ping-active-1.png)
+
+![](design/ping-active-2.png)
+
+
 
